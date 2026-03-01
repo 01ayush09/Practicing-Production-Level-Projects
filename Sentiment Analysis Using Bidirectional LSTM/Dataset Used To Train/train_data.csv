@@ -1,0 +1,60 @@
+# ================================================================================
+# Sentiment Analysis Dataset - Training Data (80% Split)
+# 
+# Project: Sentiment Analysis Dataset
+# Description: Training subset for machine learning model development.
+# Category: Text Data
+# Difficulty: Intermediate
+# 
+# Author: Molla Samser (Founder)
+# Designer & Tester: Rima Khatun
+# Website: https://rskworld.in
+# Email: help@rskworld.in | support@rskworld.in
+# Phone: +91 93305 39277
+# 
+# © 2026 RSK World - Free Programming Resources & Source Code
+# All rights reserved.
+# ================================================================================
+
+id,text,sentiment,source,date
+1,"Absolutely love this product! It exceeded all my expectations and the quality is outstanding. Will definitely recommend to friends and family.",positive,Product Review,2026-01-15
+2,"The service was okay, nothing special. Delivery was on time but the packaging could have been better. Average experience overall.",neutral,Customer Feedback,2026-01-16
+3,"Terrible experience! The product arrived damaged and customer support was unhelpful. Complete waste of money. Never ordering again.",negative,Product Review,2026-01-17
+4,"This is the best purchase I've made this year! The features are amazing and it works exactly as advertised. Highly satisfied customer here!",positive,Social Media,2026-01-18
+5,"Received the package today. It looks decent but haven't tried it yet. Will update after a week of use.",neutral,Social Media,2026-01-19
+6,"So disappointed with this purchase. The description was misleading and the actual product is nothing like what was shown in the pictures.",negative,Product Review,2026-01-20
+7,"Great value for money! The build quality is solid and it performs really well. Shipping was fast too. Very happy with this purchase!",positive,Customer Feedback,2026-01-21
+8,"Just unboxed my order. Standard quality, meets basic requirements. Not exceptional but does the job. Fair price for what you get.",neutral,Social Media,2026-01-22
+10,"Five stars! This product changed my daily routine for the better. Excellent quality, beautiful design, and amazing functionality!",positive,Product Review,2026-01-24
+11,"The product works as expected. Nothing extraordinary but nothing to complain about either. Average performance for the price point.",neutral,Product Review,2026-01-25
+12,"Completely broken on arrival! Requested a refund but still waiting after two weeks. This company has lost a customer forever.",negative,Social Media,2026-01-26
+13,"Impressed beyond words! The attention to detail is remarkable. Best investment I've made in a long time. Truly exceptional product!",positive,Customer Feedback,2026-01-27
+14,"Received my order yesterday. First impressions are neither good nor bad. Will need more time to form a complete opinion.",neutral,Social Media,2026-01-28
+16,"Amazing quality and fast delivery. The product looks even better in person than in the photos. Exceeded my expectations!",positive,Product Review,2026-01-30
+17,"It's an average product. Does what it's supposed to do but nothing more. No complaints but no praises either.",neutral,Customer Feedback,2026-01-31
+18,"Horrible experience from start to finish. The product is a complete failure and the company refuses to acknowledge issues.",negative,Social Media,2026-02-01
+19,"Best thing I've bought online! Super impressed with the quality. Already ordered two more for gifts. Highly recommend!",positive,Social Media,2026-02-02
+20,"Package arrived in good condition. The item seems okay. Will test it more before giving a final verdict.",neutral,Product Review,2026-02-03
+21,"Avoid this product at all costs! It stopped working after just one week. Customer support is non-existent.",negative,Customer Feedback,2026-02-04
+22,"Wow! Just wow! This exceeded every expectation I had. Worth every penny and more. Thank you for this amazing product!",positive,Product Review,2026-02-05
+23,"Standard shipping, standard product, standard everything. Nothing stood out positively or negatively about this purchase.",neutral,Social Media,2026-02-06
+24,"Extremely disappointed. False advertising and poor quality. Demanded refund but got no response. Stay away!",negative,Product Review,2026-02-07
+25,"I can't believe how good this is! My whole family loves it. Best decision we made this month.",positive,Customer Feedback,2026-02-08
+27,"Total rip-off! The quality is nowhere near what was promised. Feeling completely cheated by this purchase.",negative,Social Media,2026-02-10
+28,"Outstanding! This has become an essential part of my daily life. Can't imagine going back to what I used before.",positive,Social Media,2026-02-11
+29,"It works. That's about all I can say. Not impressed but not disappointed either. Just a regular product.",neutral,Customer Feedback,2026-02-12
+30,"Save your money and buy something else. This product is a joke. Worst purchase I've ever made online.",negative,Product Review,2026-02-13
+31,"Life-changing product! I've already recommended it to all my friends and colleagues. Simply the best out there.",positive,Product Review,2026-02-14
+32,"Decent quality for the price. Does the basic functions well. Might consider buying again in the future.",neutral,Social Media,2026-02-15
+33,"Absolutely terrible! Broke within days of purchase. No warranty support. Complete waste of time and money.",negative,Customer Feedback,2026-02-16
+34,"Perfect in every way! From ordering to delivery to the product itself - everything was flawless. 10/10!",positive,Customer Feedback,2026-02-17
+36,"Regret buying this. The reviews were misleading and the product quality is subpar. Very disappointed.",negative,Social Media,2026-02-19
+37,"Exceeded expectations! The quality is superb and the price was very reasonable. Already planning my next purchase.",positive,Social Media,2026-02-20
+38,"Nothing special about this product. It's functional but unremarkable. Average across all aspects.",neutral,Customer Feedback,2026-02-21
+39,"Complete disaster! Product arrived late, damaged, and different from description. Absolute nightmare experience.",negative,Product Review,2026-02-22
+40,"Fantastic product! My friends were so impressed they all ordered one too. Couldn't be happier with this purchase!",positive,Product Review,2026-02-23
+42,"Horrible quality control! Every unit I received had defects. Finally gave up and demanded a full refund.",negative,Customer Feedback,2026-02-25
+43,"This is everything I hoped for and more! Beautifully designed, perfectly functional, absolutely love it!",positive,Customer Feedback,2026-02-26
+44,"Product is okay. Nothing wrong with it per se, just doesn't stand out from the competition in any way.",neutral,Product Review,2026-02-27
+45,"Never again! This company has lost all credibility with me. Product failed, support failed, everything failed.",negative,Social Media,2026-02-28
+
