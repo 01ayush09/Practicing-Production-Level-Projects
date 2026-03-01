@@ -1,0 +1,121 @@
+# ================================================================================
+# Sentiment Analysis Dataset - Plain Text Format
+# 
+# Project: Sentiment Analysis Dataset
+# Description: Text sentiment analysis dataset with labeled reviews, comments,
+#              and social media posts for sentiment classification models.
+# Category: Text Data
+# Difficulty: Intermediate
+# 
+# Author: Molla Samser (Founder)
+# Designer & Tester: Rima Khatun
+# Website: https://rskworld.in
+# Email: help@rskworld.in | support@rskworld.in
+# Phone: +91 93305 39277
+# 
+# © 2026 RSK World - Free Programming Resources & Source Code
+# All rights reserved.
+# 
+# Format: SENTIMENT | SOURCE | TEXT
+# ================================================================================
+
+positive | Product Review | Absolutely love this product! It exceeded all my expectations and the quality is outstanding. Will definitely recommend to friends and family.
+
+neutral | Customer Feedback | The service was okay, nothing special. Delivery was on time but the packaging could have been better. Average experience overall.
+
+negative | Product Review | Terrible experience! The product arrived damaged and customer support was unhelpful. Complete waste of money. Never ordering again.
+
+positive | Social Media | This is the best purchase I've made this year! The features are amazing and it works exactly as advertised. Highly satisfied customer here!
+
+neutral | Social Media | Received the package today. It looks decent but haven't tried it yet. Will update after a week of use.
+
+negative | Product Review | So disappointed with this purchase. The description was misleading and the actual product is nothing like what was shown in the pictures.
+
+positive | Customer Feedback | Great value for money! The build quality is solid and it performs really well. Shipping was fast too. Very happy with this purchase!
+
+neutral | Social Media | Just unboxed my order. Standard quality, meets basic requirements. Not exceptional but does the job. Fair price for what you get.
+
+negative | Customer Feedback | Worst customer service I've ever experienced. Three weeks and my issue is still not resolved. Absolutely frustrating and unprofessional.
+
+positive | Product Review | Five stars! This product changed my daily routine for the better. Excellent quality, beautiful design, and amazing functionality!
+
+neutral | Product Review | The product works as expected. Nothing extraordinary but nothing to complain about either. Average performance for the price point.
+
+negative | Social Media | Completely broken on arrival! Requested a refund but still waiting after two weeks. This company has lost a customer forever.
+
+positive | Customer Feedback | Impressed beyond words! The attention to detail is remarkable. Best investment I've made in a long time. Truly exceptional product!
+
+neutral | Social Media | Received my order yesterday. First impressions are neither good nor bad. Will need more time to form a complete opinion.
+
+negative | Product Review | Don't waste your money on this garbage! Poor quality materials, horrible design, and falls apart after first use. Total scam!
+
+positive | Product Review | Amazing quality and fast delivery. The product looks even better in person than in the photos. Exceeded my expectations!
+
+neutral | Customer Feedback | It's an average product. Does what it's supposed to do but nothing more. No complaints but no praises either.
+
+negative | Social Media | Horrible experience from start to finish. The product is a complete failure and the company refuses to acknowledge issues.
+
+positive | Social Media | Best thing I've bought online! Super impressed with the quality. Already ordered two more for gifts. Highly recommend!
+
+neutral | Product Review | Package arrived in good condition. The item seems okay. Will test it more before giving a final verdict.
+
+negative | Customer Feedback | Avoid this product at all costs! It stopped working after just one week. Customer support is non-existent.
+
+positive | Product Review | Wow! Just wow! This exceeded every expectation I had. Worth every penny and more. Thank you for this amazing product!
+
+neutral | Social Media | Standard shipping, standard product, standard everything. Nothing stood out positively or negatively about this purchase.
+
+negative | Product Review | Extremely disappointed. False advertising and poor quality. Demanded refund but got no response. Stay away!
+
+positive | Customer Feedback | I can't believe how good this is! My whole family loves it. Best decision we made this month.
+
+neutral | Product Review | The product arrived on time. Packaging was adequate. Performance is exactly as described - nothing more, nothing less.
+
+negative | Social Media | Total rip-off! The quality is nowhere near what was promised. Feeling completely cheated by this purchase.
+
+positive | Social Media | Outstanding! This has become an essential part of my daily life. Can't imagine going back to what I used before.
+
+neutral | Customer Feedback | It works. That's about all I can say. Not impressed but not disappointed either. Just a regular product.
+
+negative | Product Review | Save your money and buy something else. This product is a joke. Worst purchase I've ever made online.
+
+positive | Product Review | Life-changing product! I've already recommended it to all my friends and colleagues. Simply the best out there.
+
+neutral | Social Media | Decent quality for the price. Does the basic functions well. Might consider buying again in the future.
+
+negative | Customer Feedback | Absolutely terrible! Broke within days of purchase. No warranty support. Complete waste of time and money.
+
+positive | Customer Feedback | Perfect in every way! From ordering to delivery to the product itself - everything was flawless. 10/10!
+
+neutral | Product Review | Mixed feelings about this purchase. Some features are good, others not so much. Overall, it's just okay.
+
+negative | Social Media | Regret buying this. The reviews were misleading and the product quality is subpar. Very disappointed.
+
+positive | Social Media | Exceeded expectations! The quality is superb and the price was very reasonable. Already planning my next purchase.
+
+neutral | Customer Feedback | Nothing special about this product. It's functional but unremarkable. Average across all aspects.
+
+negative | Product Review | Complete disaster! Product arrived late, damaged, and different from description. Absolute nightmare experience.
+
+positive | Product Review | Fantastic product! My friends were so impressed they all ordered one too. Couldn't be happier with this purchase!
+
+neutral | Social Media | Adequate for basic needs. Won't wow you but won't let you down either. Fair deal for the money.
+
+negative | Customer Feedback | Horrible quality control! Every unit I received had defects. Finally gave up and demanded a full refund.
+
+positive | Customer Feedback | This is everything I hoped for and more! Beautifully designed, perfectly functional, absolutely love it!
+
+neutral | Product Review | Product is okay. Nothing wrong with it per se, just doesn't stand out from the competition in any way.
+
+negative | Social Media | Never again! This company has lost all credibility with me. Product failed, support failed, everything failed.
+
+positive | Product Review | Brilliant! Such attention to detail and quality craftsmanship. A true gem among similar products.
+
+neutral | Customer Feedback | Got what I paid for. No surprises, good or bad. Standard experience with a standard product.
+
+negative | Product Review | Disappointed beyond words. Such high hopes based on the marketing, but reality was very different.
+
+positive | Social Media | Simply phenomenal! This has improved my life in ways I didn't expect. Worth every single penny!
+
+neutral | Social Media | Middle of the road product. Neither excited nor upset about this purchase. It serves its purpose.
+
