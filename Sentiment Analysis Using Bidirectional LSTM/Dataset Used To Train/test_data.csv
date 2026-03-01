@@ -1,0 +1,30 @@
+# ================================================================================
+# Sentiment Analysis Dataset - Test Data (20% Split)
+# 
+# Project: Sentiment Analysis Dataset
+# Description: Test subset for machine learning model evaluation.
+# Category: Text Data
+# Difficulty: Intermediate
+# 
+# Author: Molla Samser (Founder)
+# Designer & Tester: Rima Khatun
+# Website: https://rskworld.in
+# Email: help@rskworld.in | support@rskworld.in
+# Phone: +91 93305 39277
+# 
+# © 2026 RSK World - Free Programming Resources & Source Code
+# All rights reserved.
+# ================================================================================
+
+id,text,sentiment,source,date
+9,"Worst customer service I've ever experienced. Three weeks and my issue is still not resolved. Absolutely frustrating and unprofessional.",negative,Customer Feedback,2026-01-23
+15,"Don't waste your money on this garbage! Poor quality materials, horrible design, and falls apart after first use. Total scam!",negative,Product Review,2026-01-29
+26,"The product arrived on time. Packaging was adequate. Performance is exactly as described - nothing more, nothing less.",neutral,Product Review,2026-02-09
+35,"Mixed feelings about this purchase. Some features are good, others not so much. Overall, it's just okay.",neutral,Product Review,2026-02-18
+41,"Adequate for basic needs. Won't wow you but won't let you down either. Fair deal for the money.",neutral,Social Media,2026-02-24
+46,"Brilliant! Such attention to detail and quality craftsmanship. A true gem among similar products.",positive,Product Review,2026-03-01
+47,"Got what I paid for. No surprises, good or bad. Standard experience with a standard product.",neutral,Customer Feedback,2026-03-02
+48,"Disappointed beyond words. Such high hopes based on the marketing, but reality was very different.",negative,Product Review,2026-03-03
+49,"Simply phenomenal! This has improved my life in ways I didn't expect. Worth every single penny!",positive,Social Media,2026-03-04
+50,"Middle of the road product. Neither excited nor upset about this purchase. It serves its purpose.",neutral,Social Media,2026-03-05
+
