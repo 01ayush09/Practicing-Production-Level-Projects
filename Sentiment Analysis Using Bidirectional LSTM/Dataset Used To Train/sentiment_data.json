@@ -1,0 +1,370 @@
+{
+    "_metadata": {
+        "project": "Sentiment Analysis Dataset",
+        "description": "Text sentiment analysis dataset with labeled reviews, comments, and social media posts for sentiment classification models.",
+        "category": "Text Data",
+        "difficulty": "Intermediate",
+        "author": "Molla Samser (Founder)",
+        "designer_tester": "Rima Khatun",
+        "website": "https://rskworld.in",
+        "email": "help@rskworld.in | support@rskworld.in",
+        "phone": "+91 93305 39277",
+        "copyright": "© 2026 RSK World - Free Programming Resources & Source Code",
+        "total_samples": 50,
+        "sentiment_classes": ["positive", "neutral", "negative"],
+        "sources": ["Product Review", "Customer Feedback", "Social Media"]
+    },
+    "data": [
+        {
+            "id": 1,
+            "text": "Absolutely love this product! It exceeded all my expectations and the quality is outstanding. Will definitely recommend to friends and family.",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-01-15"
+        },
+        {
+            "id": 2,
+            "text": "The service was okay, nothing special. Delivery was on time but the packaging could have been better. Average experience overall.",
+            "sentiment": "neutral",
+            "source": "Customer Feedback",
+            "date": "2026-01-16"
+        },
+        {
+            "id": 3,
+            "text": "Terrible experience! The product arrived damaged and customer support was unhelpful. Complete waste of money. Never ordering again.",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-01-17"
+        },
+        {
+            "id": 4,
+            "text": "This is the best purchase I've made this year! The features are amazing and it works exactly as advertised. Highly satisfied customer here!",
+            "sentiment": "positive",
+            "source": "Social Media",
+            "date": "2026-01-18"
+        },
+        {
+            "id": 5,
+            "text": "Received the package today. It looks decent but haven't tried it yet. Will update after a week of use.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-01-19"
+        },
+        {
+            "id": 6,
+            "text": "So disappointed with this purchase. The description was misleading and the actual product is nothing like what was shown in the pictures.",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-01-20"
+        },
+        {
+            "id": 7,
+            "text": "Great value for money! The build quality is solid and it performs really well. Shipping was fast too. Very happy with this purchase!",
+            "sentiment": "positive",
+            "source": "Customer Feedback",
+            "date": "2026-01-21"
+        },
+        {
+            "id": 8,
+            "text": "Just unboxed my order. Standard quality, meets basic requirements. Not exceptional but does the job. Fair price for what you get.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-01-22"
+        },
+        {
+            "id": 9,
+            "text": "Worst customer service I've ever experienced. Three weeks and my issue is still not resolved. Absolutely frustrating and unprofessional.",
+            "sentiment": "negative",
+            "source": "Customer Feedback",
+            "date": "2026-01-23"
+        },
+        {
+            "id": 10,
+            "text": "Five stars! This product changed my daily routine for the better. Excellent quality, beautiful design, and amazing functionality!",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-01-24"
+        },
+        {
+            "id": 11,
+            "text": "The product works as expected. Nothing extraordinary but nothing to complain about either. Average performance for the price point.",
+            "sentiment": "neutral",
+            "source": "Product Review",
+            "date": "2026-01-25"
+        },
+        {
+            "id": 12,
+            "text": "Completely broken on arrival! Requested a refund but still waiting after two weeks. This company has lost a customer forever.",
+            "sentiment": "negative",
+            "source": "Social Media",
+            "date": "2026-01-26"
+        },
+        {
+            "id": 13,
+            "text": "Impressed beyond words! The attention to detail is remarkable. Best investment I've made in a long time. Truly exceptional product!",
+            "sentiment": "positive",
+            "source": "Customer Feedback",
+            "date": "2026-01-27"
+        },
+        {
+            "id": 14,
+            "text": "Received my order yesterday. First impressions are neither good nor bad. Will need more time to form a complete opinion.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-01-28"
+        },
+        {
+            "id": 15,
+            "text": "Don't waste your money on this garbage! Poor quality materials, horrible design, and falls apart after first use. Total scam!",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-01-29"
+        },
+        {
+            "id": 16,
+            "text": "Amazing quality and fast delivery. The product looks even better in person than in the photos. Exceeded my expectations!",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-01-30"
+        },
+        {
+            "id": 17,
+            "text": "It's an average product. Does what it's supposed to do but nothing more. No complaints but no praises either.",
+            "sentiment": "neutral",
+            "source": "Customer Feedback",
+            "date": "2026-01-31"
+        },
+        {
+            "id": 18,
+            "text": "Horrible experience from start to finish. The product is a complete failure and the company refuses to acknowledge issues.",
+            "sentiment": "negative",
+            "source": "Social Media",
+            "date": "2026-02-01"
+        },
+        {
+            "id": 19,
+            "text": "Best thing I've bought online! Super impressed with the quality. Already ordered two more for gifts. Highly recommend!",
+            "sentiment": "positive",
+            "source": "Social Media",
+            "date": "2026-02-02"
+        },
+        {
+            "id": 20,
+            "text": "Package arrived in good condition. The item seems okay. Will test it more before giving a final verdict.",
+            "sentiment": "neutral",
+            "source": "Product Review",
+            "date": "2026-02-03"
+        },
+        {
+            "id": 21,
+            "text": "Avoid this product at all costs! It stopped working after just one week. Customer support is non-existent.",
+            "sentiment": "negative",
+            "source": "Customer Feedback",
+            "date": "2026-02-04"
+        },
+        {
+            "id": 22,
+            "text": "Wow! Just wow! This exceeded every expectation I had. Worth every penny and more. Thank you for this amazing product!",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-02-05"
+        },
+        {
+            "id": 23,
+            "text": "Standard shipping, standard product, standard everything. Nothing stood out positively or negatively about this purchase.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-02-06"
+        },
+        {
+            "id": 24,
+            "text": "Extremely disappointed. False advertising and poor quality. Demanded refund but got no response. Stay away!",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-02-07"
+        },
+        {
+            "id": 25,
+            "text": "I can't believe how good this is! My whole family loves it. Best decision we made this month.",
+            "sentiment": "positive",
+            "source": "Customer Feedback",
+            "date": "2026-02-08"
+        },
+        {
+            "id": 26,
+            "text": "The product arrived on time. Packaging was adequate. Performance is exactly as described - nothing more, nothing less.",
+            "sentiment": "neutral",
+            "source": "Product Review",
+            "date": "2026-02-09"
+        },
+        {
+            "id": 27,
+            "text": "Total rip-off! The quality is nowhere near what was promised. Feeling completely cheated by this purchase.",
+            "sentiment": "negative",
+            "source": "Social Media",
+            "date": "2026-02-10"
+        },
+        {
+            "id": 28,
+            "text": "Outstanding! This has become an essential part of my daily life. Can't imagine going back to what I used before.",
+            "sentiment": "positive",
+            "source": "Social Media",
+            "date": "2026-02-11"
+        },
+        {
+            "id": 29,
+            "text": "It works. That's about all I can say. Not impressed but not disappointed either. Just a regular product.",
+            "sentiment": "neutral",
+            "source": "Customer Feedback",
+            "date": "2026-02-12"
+        },
+        {
+            "id": 30,
+            "text": "Save your money and buy something else. This product is a joke. Worst purchase I've ever made online.",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-02-13"
+        },
+        {
+            "id": 31,
+            "text": "Life-changing product! I've already recommended it to all my friends and colleagues. Simply the best out there.",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-02-14"
+        },
+        {
+            "id": 32,
+            "text": "Decent quality for the price. Does the basic functions well. Might consider buying again in the future.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-02-15"
+        },
+        {
+            "id": 33,
+            "text": "Absolutely terrible! Broke within days of purchase. No warranty support. Complete waste of time and money.",
+            "sentiment": "negative",
+            "source": "Customer Feedback",
+            "date": "2026-02-16"
+        },
+        {
+            "id": 34,
+            "text": "Perfect in every way! From ordering to delivery to the product itself - everything was flawless. 10/10!",
+            "sentiment": "positive",
+            "source": "Customer Feedback",
+            "date": "2026-02-17"
+        },
+        {
+            "id": 35,
+            "text": "Mixed feelings about this purchase. Some features are good, others not so much. Overall, it's just okay.",
+            "sentiment": "neutral",
+            "source": "Product Review",
+            "date": "2026-02-18"
+        },
+        {
+            "id": 36,
+            "text": "Regret buying this. The reviews were misleading and the product quality is subpar. Very disappointed.",
+            "sentiment": "negative",
+            "source": "Social Media",
+            "date": "2026-02-19"
+        },
+        {
+            "id": 37,
+            "text": "Exceeded expectations! The quality is superb and the price was very reasonable. Already planning my next purchase.",
+            "sentiment": "positive",
+            "source": "Social Media",
+            "date": "2026-02-20"
+        },
+        {
+            "id": 38,
+            "text": "Nothing special about this product. It's functional but unremarkable. Average across all aspects.",
+            "sentiment": "neutral",
+            "source": "Customer Feedback",
+            "date": "2026-02-21"
+        },
+        {
+            "id": 39,
+            "text": "Complete disaster! Product arrived late, damaged, and different from description. Absolute nightmare experience.",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-02-22"
+        },
+        {
+            "id": 40,
+            "text": "Fantastic product! My friends were so impressed they all ordered one too. Couldn't be happier with this purchase!",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-02-23"
+        },
+        {
+            "id": 41,
+            "text": "Adequate for basic needs. Won't wow you but won't let you down either. Fair deal for the money.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-02-24"
+        },
+        {
+            "id": 42,
+            "text": "Horrible quality control! Every unit I received had defects. Finally gave up and demanded a full refund.",
+            "sentiment": "negative",
+            "source": "Customer Feedback",
+            "date": "2026-02-25"
+        },
+        {
+            "id": 43,
+            "text": "This is everything I hoped for and more! Beautifully designed, perfectly functional, absolutely love it!",
+            "sentiment": "positive",
+            "source": "Customer Feedback",
+            "date": "2026-02-26"
+        },
+        {
+            "id": 44,
+            "text": "Product is okay. Nothing wrong with it per se, just doesn't stand out from the competition in any way.",
+            "sentiment": "neutral",
+            "source": "Product Review",
+            "date": "2026-02-27"
+        },
+        {
+            "id": 45,
+            "text": "Never again! This company has lost all credibility with me. Product failed, support failed, everything failed.",
+            "sentiment": "negative",
+            "source": "Social Media",
+            "date": "2026-02-28"
+        },
+        {
+            "id": 46,
+            "text": "Brilliant! Such attention to detail and quality craftsmanship. A true gem among similar products.",
+            "sentiment": "positive",
+            "source": "Product Review",
+            "date": "2026-03-01"
+        },
+        {
+            "id": 47,
+            "text": "Got what I paid for. No surprises, good or bad. Standard experience with a standard product.",
+            "sentiment": "neutral",
+            "source": "Customer Feedback",
+            "date": "2026-03-02"
+        },
+        {
+            "id": 48,
+            "text": "Disappointed beyond words. Such high hopes based on the marketing, but reality was very different.",
+            "sentiment": "negative",
+            "source": "Product Review",
+            "date": "2026-03-03"
+        },
+        {
+            "id": 49,
+            "text": "Simply phenomenal! This has improved my life in ways I didn't expect. Worth every single penny!",
+            "sentiment": "positive",
+            "source": "Social Media",
+            "date": "2026-03-04"
+        },
+        {
+            "id": 50,
+            "text": "Middle of the road product. Neither excited nor upset about this purchase. It serves its purpose.",
+            "sentiment": "neutral",
+            "source": "Social Media",
+            "date": "2026-03-05"
+        }
+    ]
+}
+
