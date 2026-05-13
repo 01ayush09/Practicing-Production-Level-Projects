@@ -1,0 +1,13 @@
+google-generativeai
+unstructured[pdf]
+opensearch-py
+tiktoken
+gradio
+langchain
+langchain-core
+python-dotenv
+requests
+pillow
+pdfminer.six
+pdf2image
+pytesseract
