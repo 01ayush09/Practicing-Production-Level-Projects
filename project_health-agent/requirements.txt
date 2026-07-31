@@ -1,0 +1,4 @@
+pandas>=2.0
+openpyxl>=3.1
+anthropic>=0.34   # only needed if ANTHROPIC_API_KEY is set for live LLM reasoning
+APScheduler>=3.10 # only needed for the optional scheduler.py bonus
